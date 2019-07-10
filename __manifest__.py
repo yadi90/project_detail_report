@@ -16,7 +16,7 @@
     'data': [
         'views/project_report.xml',
         'report/project_qweb_report.xml',
-        'views/report.xml',
+        'views/custom_report.xml',
     ],
     'installable': True,
 }

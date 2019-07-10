@@ -1,0 +1,7 @@
+<odoo>
+    <template id="project_detail_report_inherit" inherit_id="project_detail_report.project_detail_qweb_report">
+      <xpath expr="//table/thead" position="attributes">
+        <attribute name="style">background-color: #e1e1e1;</attribute>
+      </xpath>
+    </template>
+</odoo>
